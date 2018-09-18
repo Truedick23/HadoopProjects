@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="hadoop-annotations-2.9.1">
+    <CLASSES>
+      <root url="jar://E:/Downloads/hadoop-annotations-2.9.1.jar!/" />
+      <root url="jar://E:/Downloads/hadoop-common-2.9.1.jar!/" />
+      <root url="jar://E:/Downloads/hadoop-core-1.2.1.jar!/" />
+      <root url="jar://E:/Downloads/hadoop-hdfs-2.9.1.jar!/" />
+      <root url="jar://E:/Downloads/hadoop-mapreduce-client-core-2.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
